@@ -1,16 +1,13 @@
-# elushade_project
+# Smart Distribution Control App
 
-A new Flutter project.
 
-## Getting Started
+This repository contains a Flutter application that offers smart distribution monitoring and control capabilities for electrical appliances. The app utilizes Riverpod, a powerful state management library for Flutter, to ensure efficient data flow.
 
-This project is a starting point for a Flutter application.
+## Features
+Smart Monitoring: Track real-time electricity consumption of appliances.
+User Mode: Control appliances manually according to your needs.
+Auto Mode: Set appliances to preconfigured states based on time of day. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+Flutter
+Riverpod
