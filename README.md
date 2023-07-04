@@ -5,9 +5,12 @@ This repository contains a Flutter application that offers smart distribution mo
 
 ## Features
 Smart Monitoring: Track real-time electricity consumption of appliances.
-User Mode: Control appliances manually according to your needs.
+
+User Mode: Control appliances manually according to your needs. 
+
 Auto Mode: Set appliances to preconfigured states based on time of day. 
 
 ## Technologies Used
 Flutter
+
 Riverpod
